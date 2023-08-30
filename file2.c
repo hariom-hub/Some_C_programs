@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//C program to print the factorial of a number using function and passing arguments and no return value
 void printFactorial(int num);
 
 int main()
